@@ -8,10 +8,6 @@ function App() {
     <div className="App">
       <Header />
       <MemeGenerator />
-      {/*
-      <header className="App-header">
-      </header>
-      */}
     </div>
   );
 }
